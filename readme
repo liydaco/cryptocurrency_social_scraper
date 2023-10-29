@@ -1,0 +1,9 @@
+Use this to install twint on ubuntu:
+
+pip3 install --upgrade -e git+https://github.com/twintproject/twint.git@origin/master#egg=twint
+
+run the coins_scraper.py file to periodically scrape cmc for new tokens
+
+run the mentions_scraper.py to scrape the mentions from various social networks and produce reports from the results
+
+Run the data_enrichment.py file to update the sentiment and google score of the cryptocurrencies collected

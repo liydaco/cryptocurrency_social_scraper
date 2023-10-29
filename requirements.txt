@@ -1,0 +1,5 @@
+twint
+sendgrid
+django
+django_json_widget
+psycopg2
